@@ -2,7 +2,7 @@
 
 
 ┃ ■ Full-Stack & Game Developer | 17 y.o.
-┃ ■ Complete scripting mastery — from advanced web apps to complex game systems.
+┃ ■ Complete scripting mastery - from advanced web apps to complex game systems.
 
 
 ### 🛠️ Core Competencies
