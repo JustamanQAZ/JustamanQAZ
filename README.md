@@ -20,3 +20,8 @@
 * **DevOps, Cloud & Infrastructure:** Git & GitHub ┃ Docker ┃ Kubernetes ┃ Linux (Ubuntu/Debian) ┃ Nginx ┃ AWS
 * **Backend Frameworks & APIs:** Express ┃ Fastify ┃ Django ┃ ASP.NET Core ┃ REST APIs ┃ GraphQL ┃ WebSockets
 * **Game Engines & Core Systems:** Roblox Studio Architecture ┃ Unity ┃ Unreal Engine (C++/Blueprints)
+
+
+### 📞 Contacts
+
+* **Discord:** `_justaman_`
